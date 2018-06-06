@@ -1,0 +1,13 @@
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Release\EmailSheduleService.exe.config
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Release\EmailSheduleService.exe
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Release\EmailSheduleService.pdb
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Release\log4net.dll
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Release\log4net.xml
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.csprojAssemblyReference.cache
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.EmailSheduleService.resources
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.ProjectInstaller.resources
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.csproj.GenerateResource.cache
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.csproj.CoreCompileInputs.cache
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.csproj.CopyComplete
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.exe
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Release\EmailSheduleService.pdb

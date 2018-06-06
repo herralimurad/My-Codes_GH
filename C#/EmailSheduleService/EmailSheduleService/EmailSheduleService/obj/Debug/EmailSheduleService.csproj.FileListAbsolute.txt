@@ -1,0 +1,25 @@
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\bin\Debug\EmailSheduleService.exe.config
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\bin\Debug\EmailSheduleService.exe
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\bin\Debug\EmailSheduleService.pdb
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\bin\Debug\log4net.dll
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\bin\Debug\System.Net.Http.dll
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\bin\Debug\log4net.xml
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\bin\Debug\System.Net.Http.xml
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.EmailSheduleService.resources
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.ProjectInstaller.resources
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.csproj.GenerateResource.Cache
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.exe
+c:\users\ali.farzan\documents\visual studio 2015\Projects\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.pdb
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Debug\EmailSheduleService.exe.config
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Debug\EmailSheduleService.exe
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Debug\EmailSheduleService.pdb
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Debug\log4net.dll
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\bin\Debug\log4net.xml
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.csprojAssemblyReference.cache
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.EmailSheduleService.resources
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.ProjectInstaller.resources
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.csproj.GenerateResource.cache
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.csproj.CoreCompileInputs.cache
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.csproj.CopyComplete
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.exe
+C:\Users\Ali Murad\Desktop\EmailSheduleService\EmailSheduleService\obj\Debug\EmailSheduleService.pdb
