@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="RSL-Pj-f3C">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Loading-->
+        <scene sceneID="Yqe-Ig-N3V">
+            <objects>
+                <viewController title="Loading" id="RSL-Pj-f3C" customClass="LoadingViewController" customModule="Mobile_Shop" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="cLz-iG-wkI"/>
+                        <viewControllerLayoutGuide type="bottom" id="H7x-8x-2gg"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="y6P-6L-TJ9">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Loading, please wait..." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G5e-wm-dqP">
+                                <rect key="frame" x="75" y="235" width="170" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="EnE-ek-0Tb">
+                                <rect key="frame" x="0.0" y="234" width="320" height="1"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="dDb-D0-hHP"/>
+                                </constraints>
+                            </view>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="O3r-xY-kGV">
+                                <rect key="frame" x="142" y="197" width="37" height="37"/>
+                                <color key="color" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailingMargin" relation="greaterThanOrEqual" secondItem="G5e-wm-dqP" secondAttribute="trailing" id="2Oy-AC-FVn"/>
+                            <constraint firstItem="G5e-wm-dqP" firstAttribute="centerX" secondItem="y6P-6L-TJ9" secondAttribute="centerX" id="78R-A5-fn4"/>
+                            <constraint firstItem="O3r-xY-kGV" firstAttribute="centerX" secondItem="y6P-6L-TJ9" secondAttribute="centerX" id="7uR-jW-qI3"/>
+                            <constraint firstItem="EnE-ek-0Tb" firstAttribute="centerY" secondItem="y6P-6L-TJ9" secondAttribute="centerY" constant="-50" id="OCc-91-Xbj"/>
+                            <constraint firstItem="G5e-wm-dqP" firstAttribute="top" secondItem="EnE-ek-0Tb" secondAttribute="bottom" id="baI-FP-Tfz"/>
+                            <constraint firstItem="EnE-ek-0Tb" firstAttribute="leading" secondItem="y6P-6L-TJ9" secondAttribute="leading" id="cF1-dx-eoD"/>
+                            <constraint firstItem="G5e-wm-dqP" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="y6P-6L-TJ9" secondAttribute="leadingMargin" id="cqj-lr-Ea0"/>
+                            <constraint firstAttribute="trailing" secondItem="EnE-ek-0Tb" secondAttribute="trailing" id="qzt-VS-L87"/>
+                            <constraint firstItem="EnE-ek-0Tb" firstAttribute="top" secondItem="O3r-xY-kGV" secondAttribute="bottom" id="x6B-f8-0Rq"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="O3r-xY-kGV" id="lhM-Gs-U5n"/>
+                        <outlet property="statusLabel" destination="G5e-wm-dqP" id="Ib6-bi-XBy"/>
+                        <segue destination="qRS-EK-ncI" kind="modal" identifier="MainStroyboardSegue" modalPresentationStyle="fullScreen" modalTransitionStyle="crossDissolve" id="tyZ-2I-ZfH"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Pci-EC-8OH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="101" y="241"/>
+        </scene>
+        <!--Drawer-->
+        <scene sceneID="GLY-AF-jYA">
+            <objects>
+                <viewControllerPlaceholder storyboardIdentifier="Main" storyboardName="Drawer" id="qRS-EK-ncI" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="IL0-Og-t3q" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="435" y="241"/>
+        </scene>
+    </scenes>
+</document>

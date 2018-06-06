@@ -1,0 +1,6 @@
+framework module DTIToastCenter {
+  umbrella header "DTIToastCenter-umbrella.h"
+
+  export *
+  module * { export * }
+}

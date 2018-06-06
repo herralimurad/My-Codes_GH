@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   
+    <string name="action_settings">إعدادات</string>
+    <string name="drawer_open">مفتوح</string>
+    <string name="drawer_close">مغلق</string>
+    <string name="choose_category">إختار قسم</string>
+    <string name="discount"><strike>600 $</strike></string>
+    <string name="discount_1"><strike>900 $</strike></string>
+    <string name="discount_format">%s خصم</string>
+    <string name="atleast_five_items">يجب أن يكون لديك 5 عناصر على الأقل.</string>
+    <string name="selected_page_number" formatted="false">%s of %s</string>
+    <string name="existing_product_in_cart">هذا المنتج  بالفعل داخل السلة.</string>
+    <string name="metadata_phone">Phone: %s</string>
+    <string name="metadata_skype">WhatsApp: %s</string>
+    <string name="metadata_facebook">Website: %s</string>
+    <string name="fra_cart_saved">السعر:</string>
+    <string name="fra_cart_subtotal">ضرائب:</string>
+    <string name="fra_cart_vat">الشحن:</string>
+    <string name="fra_cart_total">الإجمالي:</string>
+    <string name="list_item_cart_qty">الكمية</string>
+    <string name="checkout">أطلب الأن</string>
+    <string name="shopping_cart">سلة المشتريات</string>
+    <string name="clear">تفريغ</string>
+    <string name="no_result_finded">لا يوجد بيانات في هذا القسم</string>
+    <string name="no_cart_items">برجاء أدخل منتج واحد في السلة</string>
+    <string name="total">الإجمالي:</string>
+    <string name="fill_info">برجاء إملىء البيانات:</string>
+    <string name="full_name">إسمك الكريم</string>
+    <string name="e_mail">إيميل</string>
+    <string name="phone">هاتف</string>
+    <string name="comment">ملاحظات</string>
+    <string name="sent">أرسل الطلب</string>
+    <string name="mandatory_fields">برجاء إملىء الحقول</string>
+    <string name="order_summary">ملخص الطلب</string>
+    <string name="transition_cover">My Transition</string>
+     <string name="signuplink"><a href="#">غير مسجل ? </a></string>
+     <string name="web"><a href="#">www.togetherpro.com </a></string>
+     <string name="sss">Marketing Campaigns\nApp Development           \nSMS services       \nWebsite Development\nFacebook Marketing \nGoogle Marketing   \nMedia Marketing    </string>
+    <string name="emltxt">راسل</string>
+     <string name="calltxt">إتصل</string>
+     <string name="sharetxt">أنشر</string>
+	 <string name="addtocartxt">أضف في السلة  </string>
+	 <string name="ordersent">تم الإرسال</string>
+     <string name="ordernotsent">خطأ في الإرسال/شبكة</string>
+     <string name=" no_number_available">لا يوجد رقم </string>
+	
+      <string name="stng1">اللغة</string>
+      <string name="aboutapp">إصدار التطبيق </string>
+	   <string name="stng2">إختيار اللغة</string>
+	 
+	    <string name="tone">اللغة</string>
+	   <string name="select_tone">اللغة</string>
+	    <string name="adress">العنوان</string>
+        
+        <string name="done">فعله</string>
+        <string name="alert_title">تغيير لغة التطبيق ؟</string>
+        <string name="cancel_button_title">إلغاء</string>
+        <string name="other_button_title">!نعم ، تغييره</string>
+        <string name="alert_title_other">!تغير</string>
+        <string name="alert_sub_title_other">!تم تغيير لغة التطبيق</string>
+        <string name="button_title">حسنا</string>
+        
+        <string name="back">الى الخلف</string>
+        <string name="checkout_other">الدفع</string>
+        <string name="save">تم الحفظ:</string>
+        <string name="subtotal">حاصل الجمع:</string>
+        <string name="vat">ضريبة</string>
+        
+        <string name="dismiss">رفض</string>
+        <string name="retry">إعادة المحاولة</string>
+        <string name="loading">جاري التحميل الرجاءالانتظار</string>
+	  
+</resources>

@@ -1,0 +1,6 @@
+framework module SnappingStepper {
+  umbrella header "SnappingStepper-umbrella.h"
+
+  export *
+  module * { export * }
+}

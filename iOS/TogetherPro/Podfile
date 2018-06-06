@@ -1,0 +1,18 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.4'
+use_frameworks!
+
+target :'Mobile Shop'
+
+pod 'SWXMLHash', '~> 2.0.0'
+pod 'Alamofire', '~> 3.0'
+pod 'AlamofireImage', '~> 2.0'
+pod 'SwiftValidator'
+
+pod "PagedHorizontalView"
+pod 'KYDrawerController'
+pod 'DTIToastCenter'
+pod 'SnappingStepper'
+pod 'IQKeyboardManagerSwift'
+
+pod 'OneSignal'

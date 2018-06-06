@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (3.1.2)
+  - AlamofireImage (2.1.0):
+    - Alamofire (~> 3.1)
+  - DTIToastCenter (0.3.0)
+  - IQKeyboardManagerSwift (3.3.4)
+  - KYDrawerController (1.1.2)
+  - OneSignal (1.11.0)
+  - PagedHorizontalView (1.0.0)
+  - SnappingStepper (2.1.0)
+  - SwiftValidator (3.0.1)
+  - SWXMLHash (2.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - AlamofireImage (~> 2.0)
+  - DTIToastCenter
+  - IQKeyboardManagerSwift
+  - KYDrawerController
+  - OneSignal
+  - PagedHorizontalView
+  - SnappingStepper
+  - SwiftValidator
+  - SWXMLHash (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 7c16ca65f3c7e681fd925fd7f2dec7747ff96855
+  AlamofireImage: 97e00995920d85b5cb23ee4c3b7f92605f5dc74b
+  DTIToastCenter: f9659b064954b9799db49204aa12a00d9cbbba4f
+  IQKeyboardManagerSwift: 6f2290d093f5269dc07bdae8bc58e968cf9c4738
+  KYDrawerController: 222c4d07ed09fa7842011d36d73e3599dcbccab3
+  OneSignal: 85d4e842b26d1a6492efa9c3ecf3b38151339f8e
+  PagedHorizontalView: b88ed6c22eec170d45518a90072e683bed622d58
+  SnappingStepper: 7378b2672b43f14ac9df400f414d44ce603b6aec
+  SwiftValidator: c59223144754045d7691febdc3b3ecc2e73b609c
+  SWXMLHash: 9e6bd7db2e8275eaf3d2082265623d6e749e169d
+
+PODFILE CHECKSUM: e70d4b99c7dbd5c9958c0e41cee487db96b55c0c
+
+COCOAPODS: 1.0.0.beta.3
