@@ -4,51 +4,11 @@
    version = "2.0">
    <Breakpoints>
       <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MobileShop/Src/Controllers/LoadingViewController.swift"
-            timestampString = "550092442.032957"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "68"
-            endingLineNumber = "68"
-            landmarkName = "loadXML()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Mobile_Shop.LoadingViewController.(loadXML () -&gt; ()).(closure #1)"
-                  moduleName = "Mobile Shop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amurad/Downloads/TogetherPro%20Swift3/MobileShop/Src/Controllers/LoadingViewController.swift"
-                  timestampString = "550092442.040503"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "68"
-                  endingLineNumber = "68"
-                  offsetFromSymbolStart = "50">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Mobile_Shop.LoadingViewController.(loadXML () -&gt; ()).(closure #1).(closure #1)"
-                  moduleName = "Mobile Shop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amurad/Downloads/TogetherPro%20Swift3/MobileShop/Src/Controllers/LoadingViewController.swift"
-                  timestampString = "550092442.043448"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "69"
-                  endingLineNumber = "69"
-                  offsetFromSymbolStart = "26">
-               </Location>
-            </Locations>
+            continueAfterRunningActions = "No">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -58,115 +18,19 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MobileShop/Src/Controllers/LoadingViewController.swift"
-            timestampString = "550092442.952868"
+            timestampString = "550524677.121021"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "69"
-            endingLineNumber = "69"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
             landmarkName = "loadXML()"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MobileShop/Src/Controllers/LoadingViewController.swift"
-            timestampString = "550092443.591596"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
-            landmarkName = "loadXML()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Mobile_Shop.LoadingViewController.loadXML () -&gt; ()"
-                  moduleName = "Mobile Shop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amurad/Downloads/TogetherPro%20Swift3/MobileShop/Src/Controllers/LoadingViewController.swift"
-                  timestampString = "550092443.599108"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "67"
-                  endingLineNumber = "67"
-                  offsetFromSymbolStart = "1451">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Mobile_Shop.LoadingViewController.(loadXML () -&gt; ()).(closure #1)"
-                  moduleName = "Mobile Shop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Applications/Xcode8.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.0.sdk/usr/include/dispatch/queue.h"
-                  timestampString = "550092443.6018831"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "331"
-                  endingLineNumber = "331"
-                  offsetFromSymbolStart = "23">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "MobileShop/Src/Controllers/LoadingViewController.swift"
-            timestampString = "550092444.894699"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "66"
-            endingLineNumber = "66"
-            landmarkName = "loadXML()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Mobile_Shop.LoadingViewController.loadXML () -&gt; ()"
-                  moduleName = "Mobile Shop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/amurad/Downloads/TogetherPro%20Swift3/MobileShop/Src/Controllers/LoadingViewController.swift"
-                  timestampString = "550092444.900406"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "67"
-                  endingLineNumber = "67"
-                  offsetFromSymbolStart = "1451">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Mobile_Shop.LoadingViewController.(loadXML () -&gt; ()).(closure #1)"
-                  moduleName = "Mobile Shop"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Applications/Xcode8.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.0.sdk/usr/include/dispatch/queue.h"
-                  timestampString = "550092444.903917"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "331"
-                  endingLineNumber = "331"
-                  offsetFromSymbolStart = "23">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No">
          </BreakpointContent>
